@@ -1,6 +1,7 @@
 .title{
 text-align: center;
 font-size: 25pt;
+border-style: dotted; border-color: aqua;
 }
 
 .container{
@@ -15,5 +16,9 @@ font-size: 24pt;
 }
 
 .list-item{
-
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+color: rgb(76, 146, 106);  
+border: Black;
+border-style: solid; border-color: rgb(2, 70, 47);
 }
